@@ -32,3 +32,13 @@ Este projeto analisa os dados do Exame Nacional do Ensino Médio (ENEM) para ide
 
 #### Visualização do Dashboard
 ![Dashboard Enem](enem_dashboard.png)
+
+### Recursos Adicionais
+
+Para acessar e baixar os dados utilizados neste projeto, assim como o arquivo Power BI utilizado para as visualizações, utilize os links abaixo:
+
+- [Baixar o arquivo de dados CSV](https://drive.google.com/file/d/1KY6eKwKJsIXc92BP_5Z0mmBfswFulvSt/view?usp=sharing)
+- [Baixar o arquivo Power BI (.pbix)](https://drive.google.com/file/d/14YcQEaFwuMZgMY6cKmdN6DHM9GGXnOfu/view?usp=sharing)
+
+
+
