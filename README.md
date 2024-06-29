@@ -31,5 +31,4 @@ Este projeto analisa os dados do Exame Nacional do Ensino Médio (ENEM) para ide
 - **Para o Público em Geral**: Acessar o dashboard no Power BI para visualizar e entender as tendências educacionais e sociais refletidas nos dados do ENEM.
 
 #### Visualização do Dashboard
-![Dashboard Enem](../enem_dashboard.png
-)
+![Dashboard Enem](ENEM_2023/enem_dashboard.png)
